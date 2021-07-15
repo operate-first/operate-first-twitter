@@ -1,0 +1,1 @@
+Machine Learning + Log Analysis = Build Failure Type Classification https://youtu.be/5aovmNf3s2Q As part of the ai4ci project this talk goes over the use of NLP for log parsing and applies these techniques to CI logs and automatically identifies different error types.
