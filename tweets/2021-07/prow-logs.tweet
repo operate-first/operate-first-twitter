@@ -1,1 +1,1 @@
-Interested in analyzing prow logs data available on GCS/origin-ci-test? Check out https://www.youtube.com/watch?v=JjFWFaMfUJA to learn how to fetch the logs and perform preliminary analysis.
+Are you a Kubernetes or OpenShift developer interested in analyzing Prow logs? Check out https://www.youtube.com/watch?v=JjFWFaMfUJA to learn how to fetch Prow logs stored on GCS and perform preliminary analysis.
