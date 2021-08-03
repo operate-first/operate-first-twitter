@@ -18,3 +18,7 @@ e.g. `tweets/2021-04/yt-espresso.tweet`.
 Once the Pull Request is Merged, a Github Action should be triggered which will publish the tweet.
 
 For more information on the tweeting process go [here](tweets/README.md).
+
+## Guidance
+
+Before posting, be sure that tweets adhere to the social media guidelines available in the community repo [here](https://github.com/operate-first/community/blob/main/social-media-guide.md).
