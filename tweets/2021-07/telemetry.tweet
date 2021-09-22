@@ -1,0 +1,1 @@
+Analyzing operational data collected from @OpenShift CI clusters can help provide insights into OpenShift releases. Watch https://youtu.be/D38gR-7c2dc to learn how we use python to fetch #Prometheus metrics collected from CI clusters, and explore it in a #Jupyter notebook.
